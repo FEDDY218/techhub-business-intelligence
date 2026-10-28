@@ -1,0 +1,51 @@
+sale_id,sale_date,store,product,quantity,unit_price_kes,payment_method
+S-3001,2026-09-01,Westgate,Safaricom Neon Ray,1,5999,Cash
+S-3002,2026-09-02,Westgate,USB-C Charger 25W,2,1499,M-Pesa
+S-3003,2026-09-02,Kisumu Mega Plaza,Lenovo Tab M10,2,24999,Cash
+S-3004,2026-09-02,Westgate,Xiaomi Redmi Buds,2,3199,M-Pesa
+S-3005,2026-09-03,Nakuru Westside,Tecno Spark 20,2,13499,M-Pesa
+S-3006,2026-09-03,Nairobi CBD,Xiaomi Redmi Buds,two,3199,Cash
+S-3007,2026-09-04,Mombasa City Mall,JBL Go 3 Speaker,2,5499,Cash
+S-3008,2026-09-04,Nairobi CBD,USB-C Charger 25W,1,1499,Card
+S-3009,2026-09-05,Nakuru Westside,USB-C Charger 25W,1,1499,Cash
+S-3010,2026-09-05,Mombasa City Mall,JBL Go 3 Speaker,2,5499,Card
+S-3011,2026-09-06,Westgate,Oraimo FreePods,1,2799,M-Pesa
+S-3012,2026-09-06,Mombasa City Mall,Xiaomi Redmi Buds,3,3199,Card
+S-3013,2026-09-08,Westgate,Lenovo Tab M10,4,24999,M-Pesa
+S-3014,2026-09-08,Westgate,Anker Power Bank 20000,3,4299,Cash
+S-3015,2026-09-09,Kisumu Mega Plaza,Tecno Spark 20,3,13499,Cash
+S-3016,2026-09-09,Kisumu Mega Plaza,Anker Power Bank 20000,4,4299,Card
+S-3017,2026-09-10,Kisumu Mega Plaza,Hisense 43in Smart TV,4,"38,999",M-Pesa
+S-3018,2026-09-10,Nakuru Westside,Hisense 43in Smart TV,1,38999,Cash
+S-3019,2026-09-10,Westgate,Samsung Galaxy A15,1,18999,Cash
+S-3020,2026-09-10,Nairobi CBD,Xiaomi Redmi Buds,2,3199,M-Pesa
+S-3021,2026-09-11,Westgate,Anker Power Bank 20000,1,4299,Card
+S-3022,2026-09-13,Nairobi CBD,HP 15 Laptop,4,64999,M-Pesa
+S-3023,2026-09-13,Kisumu Mega Plaza,Hisense 43in Smart TV,1,38999,M-Pesa
+S-3024,2026-09-14,Kisumu Mega Plaza,JBL Go 3 Speaker,1,5499,M-Pesa
+S-3025,2026-09-14,Nairobi CBD,JBL Go 3 Speaker,1,5499,Cash
+S-3026,2026-09-16,Mombasa City Mall,USB-C Charger 25W,1,1499,Cash
+S-3027,2026-09-16,Nakuru Westside,Safaricom Neon Ray,1,5999,Card
+S-3028,2026-09-18,Mombasa City Mall,Infinix Hot 40,2,15999,M-Pesa
+S-3029,2026-09-18,Mombasa City Mall,Samsung Galaxy A15,1,KES 18999,Cash
+S-3030,2026-09-18,Nairobi CBD,HP 15 Laptop,1,N/A,Cash
+S-3031,2026-09-19,Nairobi CBD,Hisense 43in Smart TV,1,38999,Cash
+S-3032,2026-09-19,Westgate,Infinix Hot 40,1,15999,Card
+S-3033,2026-09-19,Westgate,Samsung Galaxy A15,1,18999,Cash
+S-3034,2026-09-20,Nairobi CBD,Xiaomi Redmi Buds,1,3199,Card
+S-3035,2026-09-20,Nairobi CBD,Tecno Spark 20,,13499,M-Pesa
+S-3036,2026-09-21,Nakuru Westside,Tecno Spark 20,4,13499,M-Pesa
+S-3037,2026-09-22,Nakuru Westside,USB-C Charger 25W,1,1499,Card
+S-3038,2026-09-22,Nairobi CBD,Anker Power Bank 20000,1,4299,Cash
+S-3039,2026-09-22,Mombasa City Mall,Safaricom Neon Ray,1,,M-Pesa
+S-3040,2026-09-22,Westgate,Infinix Hot 40,1,15999,M-Pesa
+S-3041,2026-09-24,Mombasa City Mall,Lenovo Tab M10,1,24999,Cash
+S-3042,2026-09-24,Mombasa City Mall,Tecno Spark 20,3,13499,Card
+S-3043,2026-09-25,Nakuru Westside,JBL Go 3 Speaker,2,5499,Card
+S-3044,2026-09-26,Westgate,Lenovo Tab M10,1,24999,M-Pesa
+S-3045,2026-09-27,Mombasa City Mall,USB-C Charger 25W,3,1499,Card
+S-3046,2026-09-27,Kisumu Mega Plaza,USB-C Charger 25W,4,1499,Card
+S-3047,2026-09-28,Nairobi CBD,Oraimo FreePods,4,2799,Cash
+S-3048,2026-09-30,Kisumu Mega Plaza,HP 15 Laptop,2,64999,Card
+S-3049,2026-09-30,Kisumu Mega Plaza,JBL Go 3 Speaker,1,5499,M-Pesa
+S-3050,2026-09-30,Westgate,Oraimo FreePods,2,2799,Card

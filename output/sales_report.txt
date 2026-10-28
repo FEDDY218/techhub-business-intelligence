@@ -1,0 +1,25 @@
+TECH HUB KENYA SALES REPORT
+===========================
+
+Total revenue: KES 1,310,812.00
+
+Revenue by store:
+Westgate: KES 235,979.00
+Kisumu Mega Plaza: KES 449,678.00
+Nakuru Westside: KES 139,988.00
+Mombasa City Mall: KES 154,082.00
+Nairobi CBD: KES 331,085.00
+
+Revenue by product:
+Safaricom Neon Ray: KES 11,998.00
+USB-C Charger 25W: KES 19,487.00
+Lenovo Tab M10: KES 199,992.00
+Xiaomi Redmi Buds: KES 25,592.00
+Tecno Spark 20: KES 161,988.00
+JBL Go 3 Speaker: KES 49,491.00
+Oraimo FreePods: KES 19,593.00
+Anker Power Bank 20000: KES 38,691.00
+Hisense 43in Smart TV: KES 272,993.00
+Samsung Galaxy A15: KES 56,997.00
+HP 15 Laptop: KES 389,994.00
+Infinix Hot 40: KES 63,996.00
